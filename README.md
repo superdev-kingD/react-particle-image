@@ -110,5 +110,3 @@ If animations are choppy try:
 
 Here's a [codesandbox of a good boy](https://codesandbox.io/s/react-particle-image-multicolor-dp8up) to show what I mean. Note the `round` function to reduce the number of colors painted on the canvas.
 
-
-MIT © [malerba118](https://github.com/malerba118)
